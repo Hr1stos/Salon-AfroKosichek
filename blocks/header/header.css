@@ -6,7 +6,6 @@
     box-sizing: border-box;
     z-index: 0;
     background-position: center;
-    position: relative;
     text-decoration: none;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../images/bgc.jpg);
 }

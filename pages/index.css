@@ -13,6 +13,9 @@
 @import url(../blocks/header/__button/header__button-burger.css);
 @import url(../blocks/header/__button/header__button-insta.css);
 @import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__seidbar/header__seidbar.css);
+@import url(../blocks/header/__seidbar/_open/header__seidbar_open.css);
+
 /*Блок about*/
 @import url(../blocks/about/about.css);
 /*Блок footer*/
