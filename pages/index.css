@@ -1,0 +1,9 @@
+@import url(../vendor/normalize.css);
+/*Блок page*/
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__content/page__content.css);
+/*Блок header*/
+
+/*Блок about*/
+@import url(../blocks/about/about.css);
+/*Блок footer*/

@@ -1,0 +1,8 @@
+.page__content {
+	max-width: 1920px;
+	margin: 0 auto;
+	font-family: 'Garamond';
+	color: #FFFFFF;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
