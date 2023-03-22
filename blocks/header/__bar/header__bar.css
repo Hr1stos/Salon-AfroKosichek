@@ -1,0 +1,9 @@
+.header__bar{
+    max-width: 1296px;
+    width: 100%;
+    height: 70px;
+    margin: 30px auto 0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:   1px solid rgba(255, 255, 255, .5);
+}

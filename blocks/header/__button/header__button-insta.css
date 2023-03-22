@@ -1,0 +1,7 @@
+.header__button-insta{
+    width: 24px;
+    height: 24px;
+    margin-top: 7px;
+    background-image: url(../../../images/insta.svg);
+    background-position: center;
+}
