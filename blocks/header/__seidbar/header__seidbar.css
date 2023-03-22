@@ -1,11 +1,10 @@
 .header__seidbar{
   position: absolute;
+  display: none;
   top: 0;
   right: 0;
   width: 475px;
   height: 100%;
-  z-index: -1;
   background-color: #111111;
-  transform: translateX(0%);
-  transition: transform 1s linear;
+  transition: transform 1s linear ease;
 }
