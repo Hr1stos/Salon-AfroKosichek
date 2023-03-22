@@ -1,0 +1,14 @@
+.header__seidbar-button{
+    width: 32px;
+    height: 32px;
+    background: transparent;
+    position: absolute;
+    top: 40px;
+    left: 80px;
+    border: 0;
+    cursor: pointer;
+    background-image: url(../../../images/seidbar-button.svg);
+    background-size: 28px 28px;
+    background-position: center;
+    background-repeat: no-repeat;
+}

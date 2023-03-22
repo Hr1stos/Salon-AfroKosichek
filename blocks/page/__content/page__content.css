@@ -1,8 +1,11 @@
 .page__content {
 	max-width: 1920px;
 	margin: 0 auto;
-	font-family: 'Garamond';
+	font-family: 'Garamond, Arial, Helvetica, sans-serif';
 	color: #FFFFFF;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
 }

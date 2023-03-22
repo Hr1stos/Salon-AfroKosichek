@@ -1,0 +1,10 @@
+.header__link{
+    text-decoration: none;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    color: #FFFFFF;
+    /* accent-color: #CDAA7D; */
+}
