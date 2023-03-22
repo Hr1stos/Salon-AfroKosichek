@@ -1,3 +1,8 @@
 .about {
-	
+	margin: 120px auto 0;
+	max-width: 856px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }

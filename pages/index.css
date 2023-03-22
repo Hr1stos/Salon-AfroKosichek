@@ -6,4 +6,6 @@
 
 /*Блок about*/
 @import url(../blocks/about/about.css);
+@import url(../blocks/about/__image/about__image.css);
+@import url(../blocks/about/__paragraph/about__paragraph.css);
 /*Блок footer*/
