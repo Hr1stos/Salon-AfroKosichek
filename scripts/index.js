@@ -1,4 +1,4 @@
-const clickOpen = document.querySelector('.header__button-burger');
+const clickOpen = document.querySelector('.header__burger');
 const seidbarOpen = document.querySelector('.header__seidbar');
 const clickClose = document.querySelector('.header__seidbar-button');
 
