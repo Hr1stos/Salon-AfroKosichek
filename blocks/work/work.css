@@ -1,3 +1,7 @@
 .work {
-	
+	max-width: 1296px;
+	margin: 168px auto 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }

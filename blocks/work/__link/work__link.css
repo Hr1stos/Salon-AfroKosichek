@@ -1,3 +1,16 @@
 .work__link {
-	
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 130%;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.work__link:hover {
+	padding-bottom: 5px;
+	color: #CDAA7D;
+	border-bottom: 1px solid #CDAA7D;
 }
