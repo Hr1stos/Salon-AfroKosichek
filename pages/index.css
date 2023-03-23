@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+/*Шрифты*/
 @import url(../vendor/fonts/fonts.css);
 /*Блок page*/
 @import url(../blocks/page/page.css);
@@ -16,7 +17,6 @@
 @import url(../blocks/header/__seidbar/header__seidbar.css);
 @import url(../blocks/header/__seidbar/_open/header__seidbar_open.css);
 @import url(../blocks/header/__seidbar-button/header__seidbar-button.css);
-
 /*Блок about*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__image/about__image.css);
@@ -28,4 +28,9 @@
 @import url(../blocks/services/__image-container/services__image-container.css);
 @import url(../blocks/services/__image/services__image.css);
 @import url(../blocks/services/__title/services__title.css);
+/*Блок brand*/
+@import url(../blocks/brand/brand.css);
+@import url(../blocks/brand/__image/brand__image.css);
+@import url(../blocks/brand/__container/brand__container.css);
+@import url(../blocks/brand/__item/brand__item.css);
 /*Блок footer*/

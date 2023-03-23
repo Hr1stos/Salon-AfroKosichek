@@ -1,0 +1,7 @@
+.brand__item {
+	min-width: 306px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 144px;
+}
