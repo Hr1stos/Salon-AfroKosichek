@@ -33,4 +33,12 @@
 @import url(../blocks/brand/__image/brand__image.css);
 @import url(../blocks/brand/__container/brand__container.css);
 @import url(../blocks/brand/__item/brand__item.css);
+/*Блок work*/
+@import url(../blocks/work/work.css);
+@import url(../blocks/work/__title/work__title.css);
+@import url(../blocks/work/__nav/header__nav.css);
+@import url(../blocks/work/__list/work__list.css);
+@import url(../blocks/work/__link/work__link.css);
+@import url(../blocks/work/__image-container/work__image-container.css);
+@import url(../blocks/work/__image/work__image.css);
 /*Блок footer*/
