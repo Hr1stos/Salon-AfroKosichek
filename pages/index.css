@@ -17,6 +17,11 @@
 @import url(../blocks/header/__seidbar/header__seidbar.css);
 @import url(../blocks/header/__seidbar/_open/header__seidbar_open.css);
 @import url(../blocks/header/__seidbar-button/header__seidbar-button.css);
+@import url(../blocks/header/__seidbar-paragraph/header__seidbar-paragraph.css);
+@import url(../blocks/header/__seidbar-item/header__seidbar-item.css);
+@import url(../blocks/header/__seidbar-list/header__seidbar-list.css);
+@import url(../blocks/header/__seidbar-contact/header__seidbar-contact.css);
+@import url(../blocks/header/__seidbar-link/header__seidbar-link.css);
 /*Блок about*/
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__image/about__image.css);

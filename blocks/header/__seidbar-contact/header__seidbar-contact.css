@@ -1,0 +1,11 @@
+.header__seidbar-contact{
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #FFFFFF;
+    max-width: 315px;
+    width: 100%;
+    margin: 80px auto 25px;
+}

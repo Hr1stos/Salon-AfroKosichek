@@ -7,10 +7,21 @@
 	text-align: center;
 	color: #FFFFFF;
 	text-decoration: none;
+	position: relative;
 }
-
-.work__link:hover {
-	padding-bottom: 5px;
-	color: #CDAA7D;
-	border-bottom: 1px solid #CDAA7D;
+.work__link:hover{
+    color: #CDAA7D;
+}
+.work__link:before{
+    content: '';
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+    height: 1px;
+    transition: 0.2s;
+    background-color: #CDAA7D;
+}
+.work__link:hover:before{
+    width: 100%;
 }
