@@ -6,5 +6,21 @@
     font-size: 18px;
     line-height: 130%;
     color: #FFFFFF;
-    /* accent-color: #CDAA7D; */
+    position: relative;
+}
+.header__link:hover{
+    color: #CDAA7D;
+}
+.header__link:before{
+    content: '';
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    width: 0;
+    height: 1px;
+    transition: 0.2s;
+    background-color: #CDAA7D;
+}
+.header__link:hover:before{
+    width: 100%;
 }
