@@ -1,0 +1,14 @@
+.footer__link {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 130%;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin: 0 0 15px;
+}
+
+.footer__link:last-child {
+	margin: 0;
+}
