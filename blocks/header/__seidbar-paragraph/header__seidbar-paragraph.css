@@ -1,0 +1,10 @@
+.header__seidbar-paragraph{
+    max-width: 315px;
+    width: 100%;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    margin: 0;
+}
