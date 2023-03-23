@@ -42,3 +42,4 @@
 @import url(../blocks/work/__image-container/work__image-container.css);
 @import url(../blocks/work/__image/work__image.css);
 /*Блок footer*/
+@import url(../blocks/footer/footer.css);
