@@ -8,11 +8,11 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__bar/header__bar.css);
 @import url(../blocks/header/__nav/header__nav.css);
-@import url(../blocks/header/__ico/header__ico-omega.css);
+@import url(../blocks/header/__ico-omega/header__ico-omega.css);
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__burger/header__burger.css);
-@import url(../blocks/header/__button/header__button-insta.css);
+@import url(../blocks/header/__button-insta/header__button-insta.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__seidbar/header__seidbar.css);
 @import url(../blocks/header/__seidbar/_open/header__seidbar_open.css);
