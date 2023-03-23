@@ -1,3 +1,8 @@
 .services__image {
-	
+	display: block;
+	position: absolute;
+	width: 396px;
+	height: 300px;
+	top: 19px;
+	right: 19px;
 }
