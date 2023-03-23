@@ -1,4 +1,3 @@
 .header__seidbar_open{
-    display: flex;
-    transform: translateX(0);
+    visibility: visible;
 }
