@@ -1,0 +1,7 @@
+.services__image-container {
+	position: relative;
+	border: 1px solid rgba(205, 170, 125, .5);
+	width: 396px;
+	height: 300px;
+	box-sizing: border-box;
+}
