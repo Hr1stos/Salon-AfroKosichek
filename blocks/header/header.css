@@ -1,4 +1,6 @@
 .header{
+    position: relative;
+    overflow: hidden;
     max-width: 1920px;
     display: flex;
     flex-direction: column;
