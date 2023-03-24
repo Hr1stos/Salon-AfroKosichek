@@ -1,13 +1,13 @@
 .header__seidbar{
-  position: absolute;
+  position: fixed;
   top: 0;
   right:0;
-  width: 475px;
+  width: 0;
   height: 100%;
-  visibility: hidden;
   background-color: #111111;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  transition: 1s;
 }
