@@ -1,5 +1,8 @@
 .header__seidbar-item{
     max-width: 315px;
     width: 100%;
-    margin-top: 0;
+    margin: 80px auto 0;
+}
+.header__seidbar-item:last-child{
+    margin-top: 60px;
 }
